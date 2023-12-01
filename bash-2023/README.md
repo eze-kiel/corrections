@@ -29,7 +29,7 @@ $ touch file
 $ sudo chown root:root file
 $ cat /etc/passwd > file
 bash: file: Permission denied
-cat /etc/passwd | sudo tee file
+$ cat /etc/passwd | sudo tee file
 ```
 
 ## Bases du scripting shell

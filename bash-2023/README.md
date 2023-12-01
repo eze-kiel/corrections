@@ -96,7 +96,7 @@ echo "$@"
 ```
 
 ```
-$ ./all.sh foo bar baz plop                                                               
+$ ./all.sh foo bar baz plop
 4
 all.sh
 plop
